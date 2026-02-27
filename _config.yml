@@ -44,6 +44,8 @@ footer:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/modular-af"
 
+breadcrumbs: true
+
 # Build settings
 remote_theme: mmistakes/minimal-mistakes@4.27.3
 plugins:
@@ -51,7 +53,8 @@ plugins:
   - jekyll-include-cache
 
 # Include in jekyll processing
-include: ["_pages"]
+include:
+  - _pages
 
 # Exclude from processing
 exclude:
