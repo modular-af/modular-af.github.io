@@ -17,7 +17,7 @@ intro:
 feature_row:
   - image_path: assets/images/placeholder.jpg
     alt: "placeholder image 1"
-    title: "Placeholder 1"
+    title: "Placeholder Text 1"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
   - image_path: /assets/images/placeholder.jpg
     image_caption: "Image courtesy of [AI](https://perchance.org/ai-text-to-image-generator)"
